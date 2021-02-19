@@ -1,0 +1,23 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "Documentation for the oc-contacts plugin",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fytinnovations/oc-contacts.git"
+  },
+  "author": "Fytinnovations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fytinnovations/oc-contacts/issues"
+  },
+  "homepage": "https://github.com/fytinnovations/oc-contacts#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
